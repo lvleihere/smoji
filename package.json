@@ -1,0 +1,22 @@
+{
+  "name": "smoji",
+  "version": "1.0.1",
+  "main": "index.js",
+  "description": "The command Tools of emoji, it can give you most of the emoji you like.",
+  "license": "MIT",
+  "bin": {
+    "smoji": "./index.js"
+  },
+  "keywords": [
+    "emoji",
+    "tools"
+  ],
+  "author": "lvlei",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli-table2": "^0.2.0",
+    "commander": "^2.19.0",
+    "table": "^5.2.1",
+    "table2": "^1.0.1"
+  }
+}
